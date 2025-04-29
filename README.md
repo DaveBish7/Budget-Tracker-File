@@ -6,17 +6,17 @@ Description:
 - This will then be visible in 'view transactions'.
 - And will be included in the calculations for current budget.
 
-Features
-- Add incomes,
-- Add expenses,
+Features:
+- Add incomes.
+- Add expenses.
 - View transactions, orders descending from most recent. 
 - Calculates current budget.
 
-How to Run
-- Run in an IDE (PyCharm)
+How to Run:
+- Run in an IDE (PyCharm).
 - Open the project.
 - Open the file.
 - Click Run.
 
 Details:
-- Written in Python 3.13 on PyCharm
+- Written in Python 3.13 on PyCharm.
